@@ -1,0 +1,3 @@
+The original Practical guide asked you to show all rows and every third column from 0 to 15. This should be the other way around (and has now been corrected): Show all columns and every third row between 0 and 15.
+
+Many thanks to Liu Qi for pointing out the mistake!
